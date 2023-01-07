@@ -3,7 +3,8 @@
     background-position: center;
     background-repeat: no-repeat;
     padding-top: 70px;
-    padding-bottom: 140px;
+    padding-bottom: 130px;
+    border-radius: 15px;
 }
 .div-one{
     margin-top: 70px;
@@ -20,4 +21,19 @@
     border: none;
     padding:5px 10px;
     border-radius: 5px;
+    margin-top: 15px;
+}
+/*Section two is start to here */
+.section-two{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.person img{
+    height: 400px;
+}
+.extra-details{
+    margin-top: 100px;
+    margin-left: 100px;
 }
