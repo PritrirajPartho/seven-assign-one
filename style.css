@@ -44,4 +44,18 @@
     color: rgb(37, 235, 6);
     margin-right: 10px;
 }
+/* one header ekaki */
+.ekaki{
+    text-align: center;
+    margin-top: 50px;
+}
 /*3rd section er kaj suru */
+.section-three{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+.icon-hub{
+    margin-right: 25px;
+    margin-left: 25px;
+}
