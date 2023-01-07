@@ -31,9 +31,17 @@
     margin-right: 100px;
 }
 .person img{
-    height: 400px;
+    height: 500px;
 }
 .extra-details{
     margin-top: 100px;
     margin-left: 100px;
 }
+.check{
+    font-size: 2px;
+}
+.fa-sharp{
+    color: rgb(37, 235, 6);
+    margin-right: 10px;
+}
+/*3rd section er kaj suru */
