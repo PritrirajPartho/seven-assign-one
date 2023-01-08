@@ -59,3 +59,47 @@
     margin-right: 25px;
     margin-left: 25px;
 }
+.icon-hub img{
+  margin-left: 20px;
+  width: 80px;
+  height: 80px;
+}
+/*Section four */
+.section-four{
+    background-image: url("images/gradient1.png");
+    background-image: url("images/watch.png");
+    background-position: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+    padding: 40px 20px;
+    border-radius: 15px;
+}
+.section-four h1{
+  color: azure;
+}
+/*section five ekon */
+.section-five{
+    justify-content: center;
+    display: flex;
+    background-color: black;
+    color: azure;
+    margin-top: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.section-five div{
+   margin-right: 150px;
+}
+.btn-subscribe{
+    color: azure;
+    background-color: #005FAC;
+    padding: 10px 15px;
+    border-radius: 10px;
+}
+.input-email input{
+    padding: 10px 10px;
+    border-radius: 5px;
+    background-color: black;
+    border: 3px solid white;
+}
