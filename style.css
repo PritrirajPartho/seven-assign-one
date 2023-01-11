@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
 }
+/*section style work stat to here */
 .section-header{
     display: flex;
     justify-content: end;
@@ -28,7 +29,6 @@
   color: azure;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
-
 .think-head{
     color: aliceblue;
     font-size: 40px;
@@ -45,8 +45,8 @@
 /*Section two is start to here */
 .section-two{
     display: flex;
-    margin-top: 50px;
-    margin-left: 100px;
+    margin-top: 100px;
+    margin-left: 200px;
     margin-right: 100px;
 }
 .person img{
@@ -55,6 +55,15 @@
 .extra-details{
     margin-top: 100px;
     margin-left: 100px;
+}
+.extra-details h1{
+font-size: xx-large;
+ margin-bottom: 20px;
+}
+.extra-details p{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    font-size: larger;
+    margin-top: 15px;
 }
 .check{
     font-size: 2px;
@@ -83,14 +92,14 @@
   width: 80px;
   height: 80px;
 }
-/*Section four */
+/*Section four work start to here */
 .section-four{
  background-image: url("images/watch.png");
  background-repeat: no-repeat;
  background-size:100%;
  background-position: center;
  height: 250px;
- margin:100px 50px 100px 50px ;
+ margin:100px 130px 100px 130px ;
  border-radius: 10px;
 }
 .section-four div h1{
@@ -106,7 +115,7 @@
  background-position: cover;
  border-radius: 10px;
 }
-/*section five ekon */
+/*section five ekon suru */
 .section-five{
     justify-content: center;
     display: flex;
@@ -119,6 +128,9 @@
 .section-five div{
    margin-right: 150px;
 }
+.section-five div p{
+    margin-top: 20px;
+}
 .btn-subscribe{
     color: azure;
     background-color: #005FAC;
@@ -126,11 +138,12 @@
     border-radius: 10px;
 }
 .input-email input{
+    margin-bottom: 23px;
     padding: 10px 10px;
     border-radius: 5px;
     background-color: black;
     border: 3px solid white;
 }
 .icon-link img{
-  margin-right: 10px;
+  margin-right: 13px;
 }
